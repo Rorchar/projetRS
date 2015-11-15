@@ -1,1 +1,1 @@
-A remplir plus tard
+gcc -shared -fPIC -o libBeMa.so testBeMa.c
